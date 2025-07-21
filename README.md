@@ -26,8 +26,11 @@ Hi there! I'm currently studying at the **University of Eastern Finland** and na
 
 ## 🧩 Tech Stack (So Far...)
 
-![Languages](https://img.shields.io/badge/code-Python-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/code-JavaScript-yellow?style=flat-square)
+![Languages](https://img.shields.io/badge/code-Python-gree?style=flat-square)
+![Languages](https://img.shields.io/badge/code-JavaScript-green?style=flat-square)
+![Languages](https://img.shields.io/badge/code-Golang-green?style=flat-square)
+![Languages](https://img.shields.io/badge/code-Ruby-green?style=flat-square)
+![Languages](https://img.shields.io/badge/code-C-green?style=flat-square)
 ![Tools](https://img.shields.io/badge/editor-VSCode-007ACC?style=flat-square)
 ![Tools](https://img.shields.io/badge/tools-Git-black?style=flat-square)
 ![GameDev](https://img.shields.io/badge/gamedev-Godot-478CBF?style=flat-square)
