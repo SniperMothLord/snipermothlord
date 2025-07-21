@@ -32,7 +32,7 @@ Hi there! I'm currently studying at the **University of Eastern Finland** and na
 ![Languages](https://img.shields.io/badge/code-Ruby-green?style=flat-square)
 ![Languages](https://img.shields.io/badge/code-C-green?style=flat-square)
 ![Languages](https://img.shields.io/badge/code-C++-green?style=flat-square)
-![Languages](https://img.shields.io/badge/code-C#-green?style=flat-square)
+![Languages](https://img.shields.io/badge/code-C\#-green?style=flat-square)
 ![Languages](https://img.shields.io/badge/code-Java-green?style=flat-square)
 ![Languages](https://img.shields.io/badge/code-PHP-green?style=flat-square)
 ![Tools](https://img.shields.io/badge/editor-VSCode-007ACC?style=flat-square)
