@@ -24,7 +24,7 @@ Hi there! I'm currently studying at the **University of Eastern Finland** and na
 
 ---
 
-# My current tech stack(ok honestly i adapt to whatever needed)
+## My current tech stack(ok honestly i adapt to whatever needed)
 ### 🧠 Languages & Tools
 Python · JavaScript · C++ · Rust · Go · Java · PHP · C# · Ruby · C
 
