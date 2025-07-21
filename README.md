@@ -25,11 +25,11 @@ Hi there! I'm currently studying at the **University of Eastern Finland** and na
 ---
 
 ## My current tech stack(ok honestly i adapt to whatever needed)
-### 🧠 Languages & Tools
-Python · JavaScript · C++ · Rust · Go · Java · PHP · C# · Ruby · C
+### 🧠 Languages
+Python · JavaScript · C++ · Rust · Go · Java · PHP · C# · Ruby · C · CSS · HTML
 
 ### 🛠 Tools & Frameworks
-VSCode · Git · Django · FastAPI · Node.js · PostgreSQL · Redis · Gin · Gorm 
+VSCode · Git · Django · FastAPI · Node.js · PostgreSQL · Redis · Gin · Gorm · React
 
 ### 🎮 Game Dev
 Unity · Godot · C# · GDScript
