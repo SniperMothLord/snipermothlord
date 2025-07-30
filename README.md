@@ -2,7 +2,7 @@
 
 ### I'm snipermothlord ( • Aspiring Game Dev • Backend & LLM Enthusiast)
 
-Hi there! I'm currently studying at the **University of Eastern Finland** and navigating the wild world of code, caffeine, and creativity. I’m deeply interested in game development and backend engineering — and lately, I’ve been diving into the exciting world of **large language models (LLMs)**.
+Hi there! I'm currently studying at the NOWHERE and navigating the wild world of code, caffeine, and creativity. I’m deeply interested in game development and backend engineering — and lately, I’ve been diving into the exciting world of **large language models (LLMs)**.
 
 ---
 
